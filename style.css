@@ -550,10 +550,6 @@ li {
     margin-left: 50px;
 }
 
-footer {
-    background-color: #ffffff;
-}
-
 .grid-layout {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
@@ -564,17 +560,7 @@ footer {
     justify-content: space-around;
 }
 
-.caja {
-    text-align: center;
-    padding-top: 50px;
-}
-
-.caja logo {
-    width: 150px;
-    height: 150px;
-}
-
-.copyright {
+.caja-copyright {
     grid-row: 3/4;
     grid-column: 1/5;
     width: 100%;
@@ -582,28 +568,59 @@ footer {
     padding-bottom: 30px;
 }
 
-img {
-    width: 30px;
-    height: 30px;
+.caja-logo{
+    margin-left: 100px;
+    margin-top: 20px;
 }
 
-.logo-footer {
-    width: 150px;
-    height: 150px;
-    border-radius: 75px;
+.caja-logo img {
+    max-width: 150px;
+}
+
+.caja-mapa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 iframe {
-    border-radius: 50px;
+    width: 120px;
+    height: 120px;
+    border-radius: 90px;
 }
 
+.caja-horario {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
-.caja .horario-caja {
+.caja-horario h3{
+    color: #000;
+}
+
+.horario{
+    margin-right: 20px;
+    text-align: center;
+}
+
+.caja-horario ul{
+    font-size: 13px;
+    list-style-type: none;
+}
+
+.caja-siguenos{
     margin-top: 30px;
 }
 
-.horario li {
-    text-align: center;
+.caja-siguenos h3{
+    color: #000;
+}
+
+.caja-siguenos img {
+    width: 35px;
+    height: 35px;
 }
 
 
