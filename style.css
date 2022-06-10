@@ -27,7 +27,6 @@
 .nav-menu ul li {
     display: inline-block;
     margin-right: 20px;
-    transition: all .5;
 }
 
 .menu-home li a {
@@ -568,7 +567,7 @@ li {
     padding-bottom: 30px;
 }
 
-.caja-logo{
+.caja-logo {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -578,7 +577,7 @@ li {
     max-width: 150px;
 }
 
-.caja-mapa{
+.caja-mapa {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -598,23 +597,23 @@ iframe {
     padding-bottom: 40px;
 }
 
-.caja-horario h3{
+.caja-horario h3 {
     color: #3ba30f;
 }
 
-.horario{
+.horario {
     margin-right: 20px;
     text-align: center;
 }
 
-.caja-horario .horario{
+.caja-horario .horario {
     font-size: 13px;
     list-style-type: none;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
 
-.caja-siguenos{
+.caja-siguenos {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -622,8 +621,9 @@ iframe {
     padding-bottom: 40px;
 }
 
-.caja-siguenos h3{
-    color: #3ba30f;;
+.caja-siguenos h3 {
+    color: #3ba30f;
+    ;
     margin-bottom: 18px;
 }
 
@@ -634,7 +634,7 @@ iframe {
 }
 
 .img-footer {
-    display:flex;
+    display: flex;
     justify-content: center;
 }
 
@@ -914,16 +914,18 @@ p {
         width: 100%;
     }
 
-    .invitacionMenu h4{
+    .invitacionMenu h4 {
         color: #fff;
     }
+
     .letra-invitacion {
         text-align: center;
     }
-    .imagenTestimonios{
+
+    .imagenTestimonios {
         display: none;
     }
-    
+
     .containerCarta {
         text-align: center;
     }
@@ -1024,7 +1026,7 @@ p {
     .invitacionMenu {
         width: 100%;
     }
-    
+
     .letra-invitacion {
         text-align: center;
     }
