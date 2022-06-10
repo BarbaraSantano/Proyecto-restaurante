@@ -1,11 +1,15 @@
 # grupo4-proyectorestaurante
 1. Introduccion
+Home
 ![Captura de pantalla de 2022-06-10 09-52-29](https://user-images.githubusercontent.com/106325332/173019421-ec27de1c-3482-42ca-b536-a220af7ad09e.png)
 ![Captura de pantalla de 2022-06-10 09-54-35](https://user-images.githubusercontent.com/106325332/173019424-9a056a95-054f-470d-a479-5524410a6ae6.png)
 ![Captura de pantalla de 2022-06-10 09-55-07](https://user-images.githubusercontent.com/106325332/173019427-f8d76b90-ff2c-4ca4-a0fc-f97d19ab659c.png)
+Conocenos
 ![Captura de pantalla de 2022-06-10 09-57-22](https://user-images.githubusercontent.com/106325332/173019464-b530d628-ceef-40c7-9704-094519a6e1bc.png)
+Carta
 ![Captura de pantalla de 2022-06-10 09-58-05](https://user-images.githubusercontent.com/106325332/173019471-f6c6d190-ae94-446d-8130-8744a23ea37d.png)
 ![Captura de pantalla de 2022-06-10 09-58-23](https://user-images.githubusercontent.com/106325332/173019472-0c82bcb6-0ab3-4485-93c9-4e29b4f14388.png)
+Reservas
 ![Captura de pantalla de 2022-06-10 09-58-53](https://user-images.githubusercontent.com/106325332/173019473-96f40a8f-1de8-411f-8597-1c22a7b80d56.png)
 
 
